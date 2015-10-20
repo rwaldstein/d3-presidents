@@ -1,0 +1,1312 @@
+{
+   "name": "Presidents",
+    "title": "Presidents of the USA",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/200px-Seal_of_the_President_of_the_United_States.svg.png",
+	"url": "https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States",
+	"children": [
+    {
+	"name": "George Washington",
+	"title": "Independent",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/George-Washington.jpg/100px-George-Washington.jpg",
+	"url": "https://en.wikipedia.org/wiki/George_Washington",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 5",
+	"children": [    {
+		"name": "Sweetlips, Scentwell, and Vulcan ",
+		"title": "American Staghounds"
+		},    {
+		"name": "Drunkard, Taster, Tipler, and Tipsy ",
+		"title": "Black and Tan Coonhounds"
+		},    {
+		"name": "Royal Gift ",
+		"title": "Donkey"
+		},    {
+		"name": "Nelson and Blueskin ",
+		"title": "Horses"
+		},    {
+		"name": "Parrot ",
+		"title": "Said to have been owned by First Lady Martha Washington."
+		} ] },
+    { "name": "State",
+	"title": "Virginia",
+	"url": "https://en.wikipedia.org/wiki/Virginia",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/125px-Flag_of_Virginia.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "April 30, 1789 - March 4, 1797" }
+  ] }
+  ,     {
+	"name": "John Adams",
+	"title": "Federalist",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/25/US_Navy_031029-N-6236G-001_A_painting_of_President_John_Adams_%281735-1826%29%2C_2nd_president_of_the_United_States%2C_by_Asher_B._Durand_%281767-1845%29-crop.jpg/115px-US_Navy_031029-N-6236G-001_A_painting_of_President_John_Adams_%281735-1826%29%2C_2nd_president_of_the_United_States%2C_by_Asher_B._Durand_%281767-1845%29-crop.jpg",
+	"url": "https://en.wikipedia.org/wiki/John_Adams",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Juno, Mark, and Satan ",
+		"title": "Dogs"
+		},    {
+		"name": "Cleopatra ",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Massachusetts",
+	"url": "https://en.wikipedia.org/wiki/Massachusetts",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/125px-Flag_of_Massachusetts.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1797 - March 4, 1801" }
+  ] }
+  ,     {
+	"name": "Thomas Jefferson",
+	"title": "Democratic-",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/148px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg",
+	"url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 4",
+	"children": [    {
+		"name": "Dick ",
+		"title": "Mockingbird"
+		},    {
+		"name": "Buzzy and <b>unknown</b> ",
+		"title": "Briards (dogs)"
+		},    {
+		"name": "No name given",
+		"title": "Two Bear Cubs"
+		},    {
+		"name": "Caractacus ",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Virginia",
+	"url": "https://en.wikipedia.org/wiki/Virginia",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/125px-Flag_of_Virginia.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1801 - March 4, 1809" }
+  ] }
+  ,     {
+	"name": "James Madison",
+	"title": "Democratic-",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/157px-James_Madison.jpg",
+	"url": "https://en.wikipedia.org/wiki/James_Madison",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "Macaw ",
+		"title": "Parrot"
+		} ] },
+    { "name": "State",
+	"title": "Virginia",
+	"url": "https://en.wikipedia.org/wiki/Virginia",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/125px-Flag_of_Virginia.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1809 - March 4, 1817" }
+  ] }
+  ,     {
+	"name": "James Monroe",
+	"title": "Democratic-",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/James_Monroe_White_House_portrait_1819.gif/170px-James_Monroe_White_House_portrait_1819.gif",
+	"url": "https://en.wikipedia.org/wiki/James_Monroe",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "No name given",
+		"title": "Spaniel"
+		},    {
+		"name": "Sebastian ",
+		"title": "Siberian Husky"
+		} ] },
+    { "name": "State",
+	"title": "Virginia",
+	"url": "https://en.wikipedia.org/wiki/Virginia",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/125px-Flag_of_Virginia.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1817 - March 4, 1825" }
+  ] }
+  ,     {
+	"name": "John Quincy Adams",
+	"title": "Democratic-",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/John_Quincy_Adams_daguerreotype_c1840s.jpg/250px-John_Quincy_Adams_daguerreotype_c1840s.jpg",
+	"url": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "No name given",
+		"title": "Silkworms"
+		} ] },
+    { "name": "State",
+	"title": "Massachusetts",
+	"url": "https://en.wikipedia.org/wiki/Massachusetts",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/125px-Flag_of_Massachusetts.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1825 - March 4, 1829" }
+  ] }
+  ,     {
+	"name": "Andrew Jackson",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Andrew_Jackson_Daguerrotype-crop.jpg/140px-Andrew_Jackson_Daguerrotype-crop.jpg",
+	"url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Polly ",
+		"title": "parrot (taught to swear)"
+		},    {
+		"name": "No name given",
+		"title": "Fighting cocks"
+		},    {
+		"name": "Bolivia, Emily, Lady Nashville, Sam Patches, and Truxton ",
+		"title": "Horses"
+		} ] },
+    { "name": "State",
+	"title": "Tennessee",
+	"url": "https://en.wikipedia.org/wiki/Tennessee",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/125px-Flag_of_Tennessee.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1829 - March 4, 1837" }
+  ] }
+  ,     {
+	"name": "Martin Van Buren",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg/375px-Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg",
+	"url": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "No name given",
+		"title": "Briefly owned two tiger cubs"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1837 - March 4, 1841" }
+  ] }
+  ,     {
+	"name": "William Henry Harrison",
+	"title": "Whig",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/142px-William_Henry_Harrison_daguerreotype_edit.jpg",
+	"url": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Sukey ",
+		"title": "Cow"
+		},    {
+		"name": "No name given",
+		"title": "Goat"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1841 - April 4, 1841" }
+  ] }
+  ,     {
+	"name": "John Tyler",
+	"title": "Whig",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TylerDaguerreotype.jpg/200px-TylerDaguerreotype.jpg",
+	"url": "https://en.wikipedia.org/wiki/John_Tyler",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Le Beau ",
+		"title": "Italian Greyhound"
+		},    {
+		"name": "Johnny Ty ",
+		"title": "Canary"
+		},    {
+		"name": "The General ",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Virginia",
+	"url": "https://en.wikipedia.org/wiki/Virginia",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/125px-Flag_of_Virginia.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "April 4, 1841 - March 4, 1845" }
+  ] }
+  ,     {
+	"name": "James K. Polk",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polkpolk.jpg/100px-Polkpolk.jpg",
+	"url": "https://en.wikipedia.org/wiki/James_K._Polk",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "No name given",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Tennessee",
+	"url": "https://en.wikipedia.org/wiki/Tennessee",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/125px-Flag_of_Tennessee.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1845 - March 4, 1849" }
+  ] }
+  ,     {
+	"name": "Zachary Taylor",
+	"title": "Whig",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Zachary_Taylor-circa1850.jpg/125px-Zachary_Taylor-circa1850.jpg",
+	"url": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "Old Whitey ",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Louisiana",
+	"url": "https://en.wikipedia.org/wiki/Louisiana",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/125px-Flag_of_Louisiana.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1849 - July 9, 1850" }
+  ] }
+  ,     {
+	"name": "Millard Fillmore",
+	"title": "Whig",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/120px-Fillmore.jpg",
+	"url": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "Mason and Dixon ",
+		"title": "Ponies"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "July 9, 1850 - March 4, 1853" }
+  ] }
+  ,     {
+	"name": "Franklin Pierce",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop.jpg/240px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop.jpg",
+	"url": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "No name given",
+		"title": "Seven miniature Oriental dogs"
+		},    {
+		"name": "No name given",
+		"title": "Two birds from Japan"
+		} ] },
+    { "name": "State",
+	"title": "New Hampshire",
+	"url": "https://en.wikipedia.org/wiki/New_Hampshire",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/125px-Flag_of_New_Hampshire.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1853 - March 4, 1857" }
+  ] }
+  ,     {
+	"name": "James Buchanan",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/145px-James_Buchanan.jpg",
+	"url": "https://en.wikipedia.org/wiki/James_Buchanan",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 4",
+	"children": [    {
+		"name": "Lara ",
+		"title": "Newfoundland"
+		},    {
+		"name": "Punch ",
+		"title": "Toy Terrier"
+		},    {
+		"name": "No name given",
+		"title": "Eagle"
+		},    {
+		"name": "Elephant ",
+		"title": "He received a herd of elephants from the King of Siam - keeping one at the White House."
+		} ] },
+    { "name": "State",
+	"title": "Pennsylvania",
+	"url": "https://en.wikipedia.org/wiki/Pennsylvania",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/250px-Flag_of_Pennsylvania.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1857 - March 4, 1861" }
+  ] }
+  ,     {
+	"name": "Abraham Lincoln",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/130px-Abraham_Lincoln_November_1863.jpg",
+	"url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 7",
+	"children": [    {
+		"name": "Nanny and Nanko ",
+		"title": "goats"
+		},    {
+		"name": "Jack ",
+		"title": "Turkey"
+		},    {
+		"name": "Fido ",
+		"title": "Dog"
+		},    {
+		"name": "Jip ",
+		"title": "Dog"
+		},    {
+		"name": "No name given",
+		"title": "Tabby and Dixie - Cats. Lincoln once remarked that Dixie is smarter than my whole cabinet."
+		},    {
+		"name": "No name given",
+		"title": "Horse"
+		},    {
+		"name": "No name given",
+		"title": "Rabbit"
+		} ] },
+    { "name": "State",
+	"title": "Illinois",
+	"url": "https://en.wikipedia.org/wiki/Illinois",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/125px-Flag_of_Illinois.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1861 - April 15, 1865" }
+  ] }
+  ,     {
+	"name": "Andrew Johnson",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/President_Andrew_Johnson.jpg/100px-President_Andrew_Johnson.jpg",
+	"url": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "No name given",
+		"title": "Fed white mice he found in his bedroom"
+		} ] },
+    { "name": "State",
+	"title": "Tennessee",
+	"url": "https://en.wikipedia.org/wiki/Tennessee",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/125px-Flag_of_Tennessee.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "April 15, 1865 - March 4, 1869" }
+  ] }
+  ,     {
+	"name": "Ulysses S. Grant",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/UlyssesGrant.png/125px-UlyssesGrant.png",
+	"url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 4",
+	"children": [    {
+		"name": "Butcher Boy, Cincinnatus (a gift from the citizens of Cincinnati, Ohio), Egypt, Jeff Davis (his wartime mount), Jennie, Julia, Mary, and St. Louis ",
+		"title": "Horses."
+		},    {
+		"name": "Billy Button and Reb ",
+		"title": "Ponies"
+		},    {
+		"name": "Faithful ",
+		"title": "Newfoundland"
+		},    {
+		"name": "Rosie ",
+		"title": "Dog"
+		} ] },
+    { "name": "State",
+	"title": "Illinois",
+	"url": "https://en.wikipedia.org/wiki/Illinois",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/125px-Flag_of_Illinois.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1869 - March 4, 1877" }
+  ] }
+  ,     {
+	"name": "Rutherford B. Hayes",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/President_Rutherford_Hayes_1870_-_1880.jpg/168px-President_Rutherford_Hayes_1870_-_1880.jpg",
+	"url": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 10",
+	"children": [    {
+		"name": "Dot ",
+		"title": "Cocker Spaniel"
+		},    {
+		"name": "Hector ",
+		"title": "Newfoundland"
+		},    {
+		"name": "Duke ",
+		"title": "English Mastiff"
+		},    {
+		"name": "Grim ",
+		"title": "Greyhound"
+		},    {
+		"name": "Otis ",
+		"title": "Miniature Schnauzer"
+		},    {
+		"name": "Juno and Shep ",
+		"title": "Hunting dogs"
+		},    {
+		"name": "Jet ",
+		"title": "Dog"
+		},    {
+		"name": "Piccolomini ",
+		"title": "Cat"
+		},    {
+		"name": "Siam ",
+		"title": "First Siamese Cat in the United States"
+		},    {
+		"name": "Miss Pussy ",
+		"title": "Siamese Cat"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1877 - March 4, 1881" }
+  ] }
+  ,     {
+	"name": "James A. Garfield",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/140px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+	"url": "https://en.wikipedia.org/wiki/James_A._Garfield",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Kit ",
+		"title": "Horse"
+		},    {
+		"name": "Veto ",
+		"title": "Dog"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1881 - September 19, 1881" }
+  ] }
+  ,     {
+	"name": "Chester A. Arthur",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/150px-Chester_Alan_Arthur.jpg",
+	"url": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "No name given",
+		"title": "Rabbit"
+		},    {
+		"name": "No name given",
+		"title": "Three horses"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "September 19, 1881 - March 4, 1885" }
+  ] }
+  ,     {
+	"name": "Grover Cleveland",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/StephenGroverCleveland.png/100px-StephenGroverCleveland.png",
+	"url": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Hector ",
+		"title": "Japanese Poodle"
+		},    {
+		"name": "No name given",
+		"title": "Mockingbirds"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1885 - March 4, 1889" }
+  ] }
+  ,     {
+	"name": "Benjamin Harrison",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pach_Brothers_-_Benjamin_Harrison.jpg/150px-Pach_Brothers_-_Benjamin_Harrison.jpg",
+	"url": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Whiskers (His Whiskers, or Old Whiskers) ",
+		"title": "Goat"
+		},    {
+		"name": "Dash ",
+		"title": "Collie"
+		},    {
+		"name": "Mr. Reciprocity and Mr. Protection ",
+		"title": "Opossums"
+		} ] },
+    { "name": "State",
+	"title": "Indiana",
+	"url": "https://en.wikipedia.org/wiki/Indiana",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/125px-Flag_of_Indiana.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1889 - March 4, 1893" }
+  ] }
+  ,     {
+	"name": "William McKinley",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/William_McKinley_1.png/255px-William_McKinley_1.png",
+	"url": "https://en.wikipedia.org/wiki/William_McKinley",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Washington Post ",
+		"title": "Yellow-headed Mexican parrot"
+		},    {
+		"name": "Valeriano Weyler and Enrique DeLome ",
+		"title": "Angora kittens"
+		},    {
+		"name": "No name given",
+		"title": "Roosters"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1897 - September 14, 1901" }
+  ] }
+  ,     {
+	"name": "Theodore Roosevelt",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/President_Theodore_Roosevelt%2C_1904.jpg/140px-President_Theodore_Roosevelt%2C_1904.jpg",
+	"url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 22",
+	"children": [    {
+		"name": "Admiral Dewey, Bishop Doane, Dr. Johnson, Father O'Grady, Fighting Bob Evans ",
+		"title": "guinea pigs"
+		},    {
+		"name": "Algonquin ",
+		"title": "Pony"
+		},    {
+		"name": "Baron Spreckle ",
+		"title": "Hen"
+		},    {
+		"name": "Bill ",
+		"title": "lizard"
+		},    {
+		"name": "Blackjack ",
+		"title": "Manchester Terrier"
+		},    {
+		"name": "Eli Yale ",
+		"title": "Blue macaw"
+		},    {
+		"name": "Emily Spinach ",
+		"title": "Garter snake"
+		},    {
+		"name": "Fedelity ",
+		"title": "Pony"
+		},    {
+		"name": "Gem and Susan ",
+		"title": "Dogs"
+		},    {
+		"name": "Jack and Peter ",
+		"title": "Terriers"
+		},    {
+		"name": "Jonathan Edwards ",
+		"title": "small bear"
+		},    {
+		"name": "Jonathan ",
+		"title": "Piebald rat"
+		},    {
+		"name": "Josiah ",
+		"title": "Badger"
+		},    {
+		"name": "Manchu ",
+		"title": "Pekingese"
+		},    {
+		"name": "Maude ",
+		"title": "Pig"
+		},    {
+		"name": "Peter ",
+		"title": "Rabbit"
+		},    {
+		"name": "Pete ",
+		"title": "Bull Terrier"
+		},    {
+		"name": "Rollo ",
+		"title": "Saint Bernard"
+		},    {
+		"name": "Skip ",
+		"title": "Rat Terrier (mongrel)"
+		},    {
+		"name": "Sailor Boy ",
+		"title": "Chesapeake Bay Retriever"
+		},    {
+		"name": "Tom Quartz and Slippers ",
+		"title": "Cats"
+		},    {
+		"name": "(Unknown) ",
+		"title": "Hyena; barn owl; one-legged rooster"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "September 14, 1901 - March 4, 1909" }
+  ] }
+  ,     {
+	"name": "William Howard Taft",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/William_Howard_Taft%2C_Bain_bw_photo_portrait%2C_1908.jpg/100px-William_Howard_Taft%2C_Bain_bw_photo_portrait%2C_1908.jpg",
+	"url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Caruso ",
+		"title": "Dog"
+		},    {
+		"name": "Mooly Wooly and Pauline Wayne ",
+		"title": "Cows"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1909 - March 4, 1913" }
+  ] }
+  ,     {
+	"name": "Woodrow Wilson",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/President_Woodrow_Wilson_portrait_December_2_1912.jpg/130px-President_Woodrow_Wilson_portrait_December_2_1912.jpg",
+	"url": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 7",
+	"children": [    {
+		"name": "Davie ",
+		"title": "Airedale Terrier"
+		},    {
+		"name": "Old Ike ",
+		"title": "Ram"
+		},    {
+		"name": "Puffins ",
+		"title": "Cat"
+		},    {
+		"name": "Mountain Boy ",
+		"title": "Greyhound"
+		},    {
+		"name": "Bruce ",
+		"title": "Bull Terrier"
+		},    {
+		"name": "No name given",
+		"title": "songbirds"
+		},    {
+		"name": "No name given",
+		"title": "sheep"
+		} ] },
+    { "name": "State",
+	"title": "New Jersey",
+	"url": "https://en.wikipedia.org/wiki/New_Jersey",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/250px-Flag_of_New_Jersey.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1913 - March 4, 1921" }
+  ] }
+  ,     {
+	"name": "Warren G. Harding",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/165px-Warren_G_Harding-Harris_%26_Ewing.jpg",
+	"url": "https://en.wikipedia.org/wiki/Warren_G._Harding",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Laddie Boy (1920–1929) ",
+		"title": "Airedale Terrier"
+		},    {
+		"name": "Old Boy ",
+		"title": "Bulldog"
+		},    {
+		"name": "Pete ",
+		"title": "Squirrel"
+		} ] },
+    { "name": "State",
+	"title": "Ohio",
+	"url": "https://en.wikipedia.org/wiki/Ohio",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/250px-Flag_of_Ohio.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1921 - August 2, 1923" }
+  ] }
+  ,     {
+	"name": "Calvin Coolidge",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/John_Calvin_Coolidge%2C_Bain_bw_photo_portrait.jpg/116px-John_Calvin_Coolidge%2C_Bain_bw_photo_portrait.jpg",
+	"url": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 21",
+	"children": [    {
+		"name": "Rob Roy and Prudence Prim ",
+		"title": "White collies"
+		},    {
+		"name": "Peter Pan ",
+		"title": "Terrier"
+		},    {
+		"name": "Paul Pry ",
+		"title": "Airedale Terrier"
+		},    {
+		"name": "Calamity Jane ",
+		"title": "Shetland Sheepdog"
+		},    {
+		"name": "Tiny Tim and Blackberry ",
+		"title": "Chow Chows"
+		},    {
+		"name": "Ruby Rouch ",
+		"title": "Collie"
+		},    {
+		"name": "Boston Beans ",
+		"title": "Bulldog"
+		},    {
+		"name": "King Cole ",
+		"title": "German shepherd"
+		},    {
+		"name": "Palo Alto ",
+		"title": "Bird dog"
+		},    {
+		"name": "Bessie ",
+		"title": "Collie"
+		},    {
+		"name": "Rebecca and Horace ",
+		"title": "Raccoons"
+		},    {
+		"name": "Ebeneezer ",
+		"title": "Donkey"
+		},    {
+		"name": "Nip and Tuck ",
+		"title": "Canaries"
+		},    {
+		"name": "Enoch ",
+		"title": "Goose"
+		},    {
+		"name": "Smoky ",
+		"title": "Bobcat"
+		},    {
+		"name": "Tiger ",
+		"title": "Cat"
+		},    {
+		"name": "Tax Reduction and Budget Bureau ",
+		"title": "lion cubs"
+		},    {
+		"name": "Billy ",
+		"title": "Pygmy Hippopotamus"
+		},    {
+		"name": "No name given",
+		"title": "A Wallaby"
+		},    {
+		"name": "No name given",
+		"title": "A Duiker (a very small antelope)"
+		},    {
+		"name": "No name given",
+		"title": "A black bear"
+		} ] },
+    { "name": "State",
+	"title": "Massachusetts",
+	"url": "https://en.wikipedia.org/wiki/Massachusetts",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/125px-Flag_of_Massachusetts.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "August 2, 1923 - March 4, 1929" }
+  ] }
+  ,     {
+	"name": "Herbert Hoover",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HerbertHoover.jpg/140px-HerbertHoover.jpg",
+	"url": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 9",
+	"children": [    {
+		"name": "King Tut ",
+		"title": "Belgian Shepherd"
+		},    {
+		"name": "Pat ",
+		"title": "German Shepherd"
+		},    {
+		"name": "Big Ben and Sonnie ",
+		"title": "Fox Terriers"
+		},    {
+		"name": "Glen ",
+		"title": "Scotch Collie"
+		},    {
+		"name": "Yukonan ",
+		"title": "Eskimo dog"
+		},    {
+		"name": "Patrick ",
+		"title": "Irish Wolfhound"
+		},    {
+		"name": "Eaglehurst Gillette ",
+		"title": "Setter"
+		},    {
+		"name": "Weejie ",
+		"title": "Norwegian Elkhound"
+		},    {
+		"name": "No name given",
+		"title": "Two alligators"
+		} ] },
+    { "name": "State",
+	"title": "California",
+	"url": "https://en.wikipedia.org/wiki/California",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/250px-Flag_of_California.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1929 - March 4, 1933" }
+  ] }
+  ,     {
+	"name": "Franklin D. Roosevelt",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Franklin_D._Roosevelt_-_NARA_-_196715.jpg/112px-Franklin_D._Roosevelt_-_NARA_-_196715.jpg",
+	"url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 7",
+	"children": [    {
+		"name": "Fala (1940–1952) ",
+		"title": "Scottish Terrier"
+		},    {
+		"name": "Major ",
+		"title": "German Shepherd"
+		},    {
+		"name": "Meggie ",
+		"title": "Scottish Terrier"
+		},    {
+		"name": "Winks ",
+		"title": "Llewellyn Setter"
+		},    {
+		"name": "Tiny ",
+		"title": "Old English Sheepdog"
+		},    {
+		"name": "President ",
+		"title": "Great Dane"
+		},    {
+		"name": "Blaze ",
+		"title": "Bullmastiff"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "March 4, 1933 - January 20, 1941" }
+  ] }
+  ,     {
+	"name": "Harry S. Truman",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harry_S._Truman.jpg/120px-Harry_S._Truman.jpg",
+	"url": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Feller ",
+		"title": "Cocker Spaniel"
+		},    {
+		"name": "Mike ",
+		"title": "Irish Setter"
+		} ] },
+    { "name": "State",
+	"title": "Missouri",
+	"url": "https://en.wikipedia.org/wiki/Missouri",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/125px-Flag_of_Missouri.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "April 12, 1945 - January 20, 1953" }
+  ] }
+  ,     {
+	"name": "Dwight D. Eisenhower",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dwight_D._Eisenhower%2C_White_House_photo_portrait%2C_February_1959.jpg/160px-Dwight_D._Eisenhower%2C_White_House_photo_portrait%2C_February_1959.jpg",
+	"url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 1",
+	"children": [    {
+		"name": "Heidi ",
+		"title": "Weimaraner"
+		} ] },
+    { "name": "State",
+	"title": "New York",
+	"url": "https://en.wikipedia.org/wiki/New_York",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/125px-Flag_of_New_York.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1953 - January 20, 1961" }
+  ] }
+  ,     {
+	"name": "John F. Kennedy",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/John_Fitzgerald_Kennedy.png/125px-John_Fitzgerald_Kennedy.png",
+	"url": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 15",
+	"children": [    {
+		"name": "Gaullie ",
+		"title": "Poodle"
+		},    {
+		"name": "Charlie ",
+		"title": "Welsh Terrier"
+		},    {
+		"name": "Tom Kitten ",
+		"title": "Cat"
+		},    {
+		"name": "Robin ",
+		"title": "Canary"
+		},    {
+		"name": "Bluebell and Marybelle ",
+		"title": "Parakeets"
+		},    {
+		"name": "Macaroni ",
+		"title": "Pony"
+		},    {
+		"name": "Tex and Leprechaun ",
+		"title": "Ponies Cow"
+		},    {
+		"name": "Debbie and Billie ",
+		"title": "Hamsters"
+		},    {
+		"name": "Pushinka ",
+		"title": "Mutt (gift of Soviet Union Premier Nikita Khrushchev, puppy of Soviet space dog Strelka)"
+		},    {
+		"name": "Shannon ",
+		"title": "Irish Cocker Spaniel"
+		},    {
+		"name": "Wolf ",
+		"title": "(Mutt, part Irish Wolfhound and Schnauzer)"
+		},    {
+		"name": "Clipper ",
+		"title": "Harlequin beauceron"
+		},    {
+		"name": "Butterfly, White Tips, Blackie, and Streaker ",
+		"title": "(offspring of Pushinka and Charlie)"
+		},    {
+		"name": "Zsa Zsa ",
+		"title": "Rabbit"
+		},    {
+		"name": "Sardar ",
+		"title": "Horse"
+		} ] },
+    { "name": "State",
+	"title": "Massachusetts",
+	"url": "https://en.wikipedia.org/wiki/Massachusetts",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/125px-Flag_of_Massachusetts.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1961 - November 22, 1963" }
+  ] }
+  ,     {
+	"name": "Lyndon B. Johnson",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lyndon_B._Johnson%2C_photo_portrait%2C_leaning_on_chair%2C_color.jpg/380px-Lyndon_B._Johnson%2C_photo_portrait%2C_leaning_on_chair%2C_color.jpg",
+	"url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 6",
+	"children": [    {
+		"name": "Him and Her ",
+		"title": "Beagles"
+		},    {
+		"name": "Edgar ",
+		"title": "Beagle"
+		},    {
+		"name": "Blanco ",
+		"title": "white Collie"
+		},    {
+		"name": "Freckles ",
+		"title": "Beagle"
+		},    {
+		"name": "Yuki ",
+		"title": "Mongrel Dog"
+		},    {
+		"name": "No name given",
+		"title": "Hamsters and Lovebirds"
+		} ] },
+    { "name": "State",
+	"title": "Texas",
+	"url": "https://en.wikipedia.org/wiki/Texas",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/125px-Flag_of_Texas.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "November 22, 1963 - January 20, 1969" }
+  ] }
+  ,     {
+	"name": "Richard Nixon",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg/125px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.jpg",
+	"url": "https://en.wikipedia.org/wiki/Richard_Nixon",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 4",
+	"children": [    {
+		"name": "Vicki ",
+		"title": "Poodle"
+		},    {
+		"name": "Pasha ",
+		"title": "Terrier"
+		},    {
+		"name": "King Timahoe ",
+		"title": "Irish Setter"
+		},    {
+		"name": "Checkers (1952–1964) ",
+		"title": "Cocker Spaniel (note: Checkers died in 1964, before Nixon became president, but had played a major role in his electoral career)"
+		} ] },
+    { "name": "State",
+	"title": "California",
+	"url": "https://en.wikipedia.org/wiki/California",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/250px-Flag_of_California.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1969 - August 9, 1974" }
+  ] }
+  ,     {
+	"name": "Gerald Ford",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gerald_Ford.jpg/180px-Gerald_Ford.jpg",
+	"url": "https://en.wikipedia.org/wiki/Gerald_Ford",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 4",
+	"children": [    {
+		"name": "Liberty (1974–1984) ",
+		"title": "Golden Retriever"
+		},    {
+		"name": "Lucky ",
+		"title": "Dog"
+		},    {
+		"name": "Misty ",
+		"title": "(Liberty's puppy born in the White House)"
+		},    {
+		"name": "Shan ",
+		"title": "Siamese cat"
+		} ] },
+    { "name": "State",
+	"title": "Michigan",
+	"url": "https://en.wikipedia.org/wiki/Michigan",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/125px-Flag_of_Michigan.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "August 9, 1974 - January 20, 1977" }
+  ] }
+  ,     {
+	"name": "Jimmy Carter",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/JimmyCarterPortrait.jpg/180px-JimmyCarterPortrait.jpg",
+	"url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 3",
+	"children": [    {
+		"name": "Grits ",
+		"title": "Border Collie; Given to his daughter Amy by her teacher, but quickly returned."
+		},    {
+		"name": "Lewis Brown ",
+		"title": "Afghan Hound"
+		},    {
+		"name": "Misty Malarky Ying Yang, daughter Amy Carter's pet ",
+		"title": "Siamese cat"
+		} ] },
+    { "name": "State",
+	"title": "Georgia",
+	"url": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/125px-Flag_of_Georgia_%28U.S._state%29.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1977 - January 20, 1981" }
+  ] }
+  ,     {
+	"name": "Ronald Reagan",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/150px-Official_Portrait_of_President_Reagan_1981.jpg",
+	"url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 7",
+	"children": [    {
+		"name": "Lucky ",
+		"title": "Bouvier des Flandres"
+		},    {
+		"name": "Rex (1984–1998)",
+		"title": "Cavalier King Charles Spaniel."
+		},    {
+		"name": "Victory ",
+		"title": "Golden Retriever"
+		},    {
+		"name": "Peggy ",
+		"title": "Irish Setterm"
+		},    {
+		"name": "Taca ",
+		"title": "Siberian Husky"
+		},    {
+		"name": "Fuzzy ",
+		"title": "Belgian sheepdog"
+		},    {
+		"name": "No name given",
+		"title": "Horses at Rancho del Cielo"
+		} ] },
+    { "name": "State",
+	"title": "California",
+	"url": "https://en.wikipedia.org/wiki/California",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/250px-Flag_of_California.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1981 - January 20, 1989" }
+  ] }
+  ,     {
+	"name": "George H. W. Bush",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait.jpg/200px-George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait.jpg",
+	"url": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Millie (1985–1997) ",
+		"title": "Springer Spaniel."
+		},    {
+		"name": "Ranger ",
+		"title": "one of Millie's puppies"
+		} ] },
+    { "name": "State",
+	"title": "Texas",
+	"url": "https://en.wikipedia.org/wiki/Texas",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/125px-Flag_of_Texas.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1989 - January 20, 1993" }
+  ] }
+  ,     {
+	"name": "Bill Clinton",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/110px-Bill_Clinton.jpg",
+	"url": "https://en.wikipedia.org/wiki/Bill_Clinton",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Socks (1989–2009) ",
+		"title": "Chelsea's cat."
+		},    {
+		"name": "Buddy (1997–2002) ",
+		"title": "Bill's chocolate Labrador Retriever"
+		} ] },
+    { "name": "State",
+	"title": "Arkansas",
+	"url": "https://en.wikipedia.org/wiki/Arkansas",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/125px-Flag_of_Arkansas.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 1993 - January 20, 2001" }
+  ] }
+  ,     {
+	"name": "George W. Bush",
+	"title": "Republican",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/110px-George-W-Bush.jpeg",
+	"url": "https://en.wikipedia.org/wiki/George_W._Bush",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 5",
+	"children": [    {
+		"name": "Spot Spotty Fetcher (1989–2004) ",
+		"title": "female English Springer Spaniel named after Scott Fletcher; Puppy of Millie; Euthanized after suffering a series of strokes."
+		},    {
+		"name": "Barney (2000–2013) ",
+		"title": "Scottish Terrier."
+		},    {
+		"name": "Miss Beazley (2004-2014) ",
+		"title": "Scottish Terrier; Nicknamed Beazley Weazley; 2005 birthday gift from George to his wife."
+		},    {
+		"name": "India Willie ",
+		"title": "cat (1990–2009)"
+		},    {
+		"name": "Ofelia ",
+		"title": "Longhorn cow (lives at Bush's Prairie Chapel Ranch)"
+		} ] },
+    { "name": "State",
+	"title": "Texas",
+	"url": "https://en.wikipedia.org/wiki/Texas",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/125px-Flag_of_Texas.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 2001 - January 20, 2009" }
+  ] }
+  ,     {
+	"name": "Barack Obama",
+	"title": "Democratic",
+	"picture": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/205px-President_Barack_Obama.jpg",
+	"url": "https://en.wikipedia.org/wiki/Barack_Obama",
+	"children": [
+    {     "name": "pets",
+	"title": "Total listed 2",
+	"children": [    {
+		"name": "Bo (born October 9, 2008) ",
+		"title": "Portuguese Water Dog."
+		},    {
+		"name": "Sunny (born June 11, 2012) ",
+		"title": "Portuguese Water Dog."
+		} ] },
+    { "name": "State",
+	"title": "Illinois",
+	"url": "https://en.wikipedia.org/wiki/Illinois",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/125px-Flag_of_Illinois.svg.png"
+	 },
+    { "name": "Dates in office",
+	"title": "January 20, 2009 - Incumbent" }
+  ] }
+    ]
+}
