@@ -10,7 +10,7 @@ accurate or kept up to date
 TO the best of my ability only have what is needed there.  WIth minimum of unexplained
 numbers.  Let me know any that are not clear and I will attempt to make the 
 code better explain the use
-# hoped for imporvement
+# hoped for improvement
 Wasn't happy about needing the up and down arrow - would prefer to do that as HTML constructs.
 Hopefully will improve that in the near future, as time permits.  Was not
 clear how to have HTML vs an image in the tree at that point though.
